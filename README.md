@@ -1,9 +1,5 @@
 # Programming Assignment Automata
 
-## Name-Arth Raj
-
-## Roll Number - 2019101094
-
 ## Regex to NFA
 
 1. Convert regex expression to postfix according to predefined operator precedence(Shunting Yard).
